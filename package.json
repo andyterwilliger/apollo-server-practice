@@ -8,8 +8,12 @@
   },
   "keywords": [],
   "dependencies": {
+    "@carbon3d/sequelize-cli": "6.2.1",
     "apollo-server": "^3.3.0",
-    "graphql": "^15.5.3"
+    "graphql": "^15.5.3",
+    "mysql2": "2.3.3",
+    "sequelize": "6.17.0",
+    "sqlite3": "5.0.2"
   },
   "devDependencies": {
     "nodemon": "1.18.4"
